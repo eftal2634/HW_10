@@ -1,0 +1,139 @@
+    1  cls
+    2  pwd
+    3  cd desktop
+    4  pwd
+    5  ls
+    6  cd performance
+    7  ls
+    8  touch goit.txt
+    9  ls
+   10  rm dersperrformancetest
+   11  mkdir dersler
+   12  pwd
+   13  cd desktop
+   14  pwd
+   15  mkdir performance
+   16  pwd
+   17  mkdir performance
+   18  pwd
+   19  cd performance
+   20  pwd
+   21  touch get.yml
+   22  touch post.yml
+   23  touch delete.yml
+   24  touch puch.yml
+   25  touch patch.yml
+   26  rm puch
+   27  ls
+   28  cd performance
+   29  pwd
+   30  cd desktop
+   31  cd Ders1
+   32  pwd
+   33  touch get.yml
+   34  touch get.post
+   35  touch post.yml
+   36  touch delete.yml
+   37  touch patch.yml
+   38  cd C:\Users\Casper\Desktop\GoIT_cypresss\Ders1\cypress\performance
+   39  dir
+   40  cd C:\Users\Casper\Desktop\GoIT_cypresss\Ders1\cypress\performance
+   41  dir
+   42  pwd
+   43  cd 
+   44  Casper@DESKTOP-254KVEN MINGW64 ~/Desktop/GoIT_cypresss/Ders
+   45  npm install @badeball/cypress-cucumber-preprocessor
+   46  whoami
+   47  help
+   48  close
+   49  help cd
+   50  help
+   51  cls
+   52  clear
+   53  cd dBeaver
+   54  ls
+   55  clear
+   56  cd Yeni klasör
+   57  ls
+   58  dir
+   59  cd dBeaver
+   60  ls
+   61  touch goıt.txt
+   62  ls
+   63  eko file name
+   64  pwd
+   65  rm Dersler
+   66  mkdir Dersler
+   67  clear
+   68  pwd
+   69  date
+   70  pwd
+   71  ipconfig
+   72  pwd
+   73  ping www.google.com
+   74  clear
+   75  systeminfo
+   76  clear
+   77  ıpconfig
+   78  clear
+   79  git confiq-- global user.name 
+   80  clear
+   81  git confiq -- gloabal user.name eftal
+   82  cla
+   83  cleat
+   84  clear
+   85  git confiq -- global user.name eftal
+   86  clear
+   87  pwd
+   88  cd SQL
+   89  pwd
+   90  clear
+   91  pwd
+   92  cd SQL
+   93  git init
+   94  git add .
+   95  PWD
+   96  git clone https://github.com/eftal2634/HW_10/blob/main/README.md
+   97  pwd
+   98  git clone https://github.com/eftal2634/HW_10.git
+   99  git cd
+  100  pwd
+  101  bash_history
+  102  clean
+  103  clear
+  104  -c && rm ~/.bash_history
+  105  close
+  106  clear
+  107  git add.
+  108  cd HW_10
+  109  touch text_ignore.txt
+  110  git status
+  111  git status
+  112  git add .
+  113  touch main_test.txt
+  114  git add .
+  115  git commit -m"update"
+  116  git push
+  117  git remote -v
+  118  git remote set-url origin https://github.com/eftal2634/HW_10.git
+  119  git push
+  120  git remote -v
+  121  git push
+  122  git branch develop
+  123  git checkout develop
+  124  touch develop_test.txt
+  125  git add .
+  126  git commit -m"v1"
+  127  git status
+  128  git add .
+  129  git commit -m"v2"
+  130  git checkout main
+  131  git merge develop
+  132  git log
+  133  git bash
+  134  git add .
+  135  git commit -m"v3"
+  136  git push
+  137  history command_list.csv
+  138  ls
+  139  history > command_list.csv
